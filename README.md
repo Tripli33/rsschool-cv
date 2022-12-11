@@ -1,1 +1,1 @@
-https://tripli33.github.io/rsschool-cv/cv
+[rsschool-cv](https://tripli33.github.io/rsschool-cv/cv)
