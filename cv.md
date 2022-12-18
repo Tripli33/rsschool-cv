@@ -1,8 +1,8 @@
 # **Savenko Roman**
 ## **Contacts:**
-+ GitHub: [Tripli33](https://github.com/Tripli33)
-+ E-mail: rsaven.wk@gmail.com
-+ Discord: [Tripli33#7709](https://discord.gg/1051197496992469116)
++ GitHub: [Tripli33](https://github.com/Tripli33);
++ E-mail: rsaven.wk@gmail.com;
++ Discord: [Tripli33#7709](https://discord.gg/1051197496992469116).
 ## **About me:**
 Hi, I'm Roman. Currently I'm studying at the Francisk Skorina Gomel State University. 
 My goal is to get a job as a full-stack web developer. 
