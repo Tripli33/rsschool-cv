@@ -1,20 +1,24 @@
 # **Savenko Roman**
-# **Gomel, Belarus**
 ## **Contacts:**
 + GitHub: [Tripli33](https://github.com/Tripli33)
 + E-mail: rsaven.wk@gmail.com
-+ Discord: [Tripli33#7709]()
++ Discord: [Tripli33#7709](https://discord.gg/1051197496992469116)
 ## **About me:**
-My goal is to get a job as a back-end developer.
-I am sociable, purposeful and independent.
-I like to learn something new and do useful and interesting things.
+Hi, I'm Roman. Currently I'm studying at the Francisk Skorina Gomel State University. 
+My goal is to get a job as a full-stack web developer. 
+I'm sociable, purposeful and independent. I like to learn something new and create useful and interesting things.things.
 ## **Skills:**
-+ C# (ASP.NET Core);
-+ SQL (MSSQL, MySQL);
-+ Git (GitHub);
-+ HTML;
-+ CSS (Fundamentals in process);
-+ JavaScript (Fundamentals in process).
++ Language: C#, SQL, HTML, CSS, JavaScript;
++ Libraries/API: TLSharp, Telegram API, jQuery;
++ Framework: ASP.NET Core, ADO.NET Entity Framework, Bootstrap;
++ Tools: Visual Studio, GitHub, Visual Studio Code, Figma/Photoshop;
++ Storage: MySQL, Microsoft SQL;
++ Methodologies: REST API.
+## **Education:**
++ Francisk Skorina Gomel State University, Bachelor of IT Engineering (Automated information processing systems);
++ Gomel State Engineering College, Qualification Electronics technician (Operation and adjustment of electronic control systems in automated production).
+## **Courses:**
++ EPAM .NET Development (Basic level).
 ## **Code example:**
 ```
 public static int MakeSecondDegree(int number)
@@ -24,8 +28,7 @@ public static int MakeSecondDegree(int number)
 ```
 ## **Experience:**
 _Not yet..._
-## **Education:**
-Francisk Skorina Gomel State University: Automated Information Processing Systems.
+
 ## **Languages:**
 + Russian - Native;
 + English - A2 - Pre-Intermediate.
